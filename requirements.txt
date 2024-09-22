@@ -1,7 +1,7 @@
 # Core Libraries
 scikit-learn==1.5.1
 joblib==1.2.0 
-
+streamlit>=1.10.0
 setuptools==57.5.0 
 
 
